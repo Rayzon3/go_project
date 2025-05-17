@@ -1,1 +1,1 @@
-Backend structure for a Go project
+File structure for a backend Go project
